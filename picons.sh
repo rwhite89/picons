@@ -41,6 +41,4 @@ opkg install https://github.com/rwhite89/picons/blob/master/SNP_Picons/enigma2-p
 rm -rv /media/hdd/var >/dev/null 2>&1
 sleep 4
 echo $LINE
-echo 'OK - All DONE PRESS EXIT'
 exit 1
-fi
