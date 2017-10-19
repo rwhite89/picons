@@ -1,0 +1,2 @@
+enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
+enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
