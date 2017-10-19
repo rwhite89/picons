@@ -17,8 +17,8 @@ echo 'LETS BEGIN THE PROCESS'
 echo $LINE
 echo $LINE
 echo 'CLEANING UP EXISTING PICONS - PLEASE WAIT'
-opkg remove enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent --force-remove >/dev/null 2>&1
-opkg remove enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent --force-remove >/dev/null 2>&1
+opkg remove 100 --force-remove >/dev/null 2>&1
+opkg remove 220 --force-remove >/dev/null 2>&1
 rm -rv /media/hdd/SkyQ >/dev/null 2>&1
 rm -rv /media/hdd/picons >/dev/null 2>&1
 rm -rv /media/hdd/picon >/dev/null 2>&1
